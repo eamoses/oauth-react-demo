@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf773eb500f96ae7360fc0b2bcf90d6b",
+    "revision": "86256707d99982e5aa36188ce54b9a2b",
     "url": "/oauth-react-demo/index.html"
   },
   {
-    "revision": "9fe7e080829fae5f5282",
+    "revision": "d56a67d9491741f86254",
     "url": "/oauth-react-demo/static/css/main.072bc34d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oauth-react-demo/static/js/2.07efe4c7.chunk.js"
   },
   {
-    "revision": "9fe7e080829fae5f5282",
-    "url": "/oauth-react-demo/static/js/main.2f94e9cf.chunk.js"
+    "revision": "d56a67d9491741f86254",
+    "url": "/oauth-react-demo/static/js/main.0c5c89f7.chunk.js"
   },
   {
     "revision": "714b7f538884c92b51e2",
