@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/oauth-react-demo/static/css/main.2cce8147.chunk.css",
-    "main.js": "/oauth-react-demo/static/js/main.f37e24a7.chunk.js",
-    "main.js.map": "/oauth-react-demo/static/js/main.f37e24a7.chunk.js.map",
+    "main.css": "/oauth-react-demo/static/css/main.072bc34d.chunk.css",
+    "main.js": "/oauth-react-demo/static/js/main.2f94e9cf.chunk.js",
+    "main.js.map": "/oauth-react-demo/static/js/main.2f94e9cf.chunk.js.map",
     "runtime~main.js": "/oauth-react-demo/static/js/runtime~main.0f5d658c.js",
     "runtime~main.js.map": "/oauth-react-demo/static/js/runtime~main.0f5d658c.js.map",
-    "static/js/2.b41502e9.chunk.js": "/oauth-react-demo/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/oauth-react-demo/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.07efe4c7.chunk.js": "/oauth-react-demo/static/js/2.07efe4c7.chunk.js",
+    "static/js/2.07efe4c7.chunk.js.map": "/oauth-react-demo/static/js/2.07efe4c7.chunk.js.map",
     "index.html": "/oauth-react-demo/index.html",
-    "precache-manifest.99b811fa4927513dfffb97e861eb836c.js": "/oauth-react-demo/precache-manifest.99b811fa4927513dfffb97e861eb836c.js",
+    "precache-manifest.04e5416660f48381da45b068cf9ff3f7.js": "/oauth-react-demo/precache-manifest.04e5416660f48381da45b068cf9ff3f7.js",
     "service-worker.js": "/oauth-react-demo/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/oauth-react-demo/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/oauth-react-demo/static/media/logo.5d5d9eef.svg"
+    "static/css/main.072bc34d.chunk.css.map": "/oauth-react-demo/static/css/main.072bc34d.chunk.css.map"
   }
 }
