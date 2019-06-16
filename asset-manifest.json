@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oauth-react-demo/static/css/main.072bc34d.chunk.css",
+    "main.css": "/oauth-react-demo/static/css/main.d6e36407.chunk.css",
     "main.js": "/oauth-react-demo/static/js/main.08105493.chunk.js",
     "main.js.map": "/oauth-react-demo/static/js/main.08105493.chunk.js.map",
     "runtime~main.js": "/oauth-react-demo/static/js/runtime~main.0f5d658c.js",
@@ -8,8 +8,8 @@
     "static/js/2.07efe4c7.chunk.js": "/oauth-react-demo/static/js/2.07efe4c7.chunk.js",
     "static/js/2.07efe4c7.chunk.js.map": "/oauth-react-demo/static/js/2.07efe4c7.chunk.js.map",
     "index.html": "/oauth-react-demo/index.html",
-    "precache-manifest.250efa210d6ef676d1ac8cd4578e840e.js": "/oauth-react-demo/precache-manifest.250efa210d6ef676d1ac8cd4578e840e.js",
+    "precache-manifest.83fcbffb62e25af47149c4e47cffe963.js": "/oauth-react-demo/precache-manifest.83fcbffb62e25af47149c4e47cffe963.js",
     "service-worker.js": "/oauth-react-demo/service-worker.js",
-    "static/css/main.072bc34d.chunk.css.map": "/oauth-react-demo/static/css/main.072bc34d.chunk.css.map"
+    "static/css/main.d6e36407.chunk.css.map": "/oauth-react-demo/static/css/main.d6e36407.chunk.css.map"
   }
 }
